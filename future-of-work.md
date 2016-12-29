@@ -44,6 +44,7 @@
 	* Of interest because it talks about economist Yuliy Sannikov's work on high-frequency contracts which I'd like to look at.
 
 ### Articles I haven't read yet
+* [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/#why-do-we-not-know-this)
 * [Brown-Philpot, CEO of TaskRabbit. 'People will still power an AI workforce.' (Nov 3 2016)](http://www.theverge.com/a/verge-2021/stacy-brown-philpot-taskrabbit-ceo-interview-ai-gig-economy)
 
 

@@ -43,6 +43,9 @@
 * [Smith. 'Get Ready for High-Frequency Lawyers'](https://www.bloomberg.com/view/articles/2016-05-10/get-ready-for-high-frequency-lawyers) 
 	* Of interest because it talks about economist Yuliy Sannikov's work on high-frequency contracts which I'd like to look at.
 
+
+* [Spice, B. (CMU) and Allen, G. (Rivers Casino), 'CMU Artificial Intelligence is tough poker player - Libratus builds substantial lead in Brains vs. AI competition'](http://www.cmu.edu/news/stories/archives/2017/january/AI-tough-poker-player.html)
+
 ### Articles I haven't read yet
 * [A history of global living conditions in 5 charts](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/#why-do-we-not-know-this)
 * [Brown-Philpot, CEO of TaskRabbit. 'People will still power an AI workforce.' (Nov 3 2016)](http://www.theverge.com/a/verge-2021/stacy-brown-philpot-taskrabbit-ceo-interview-ai-gig-economy)

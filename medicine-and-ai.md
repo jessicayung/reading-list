@@ -37,6 +37,12 @@
         * More funding is needed for researchers working at the intersection of AI, data science and cancer. 
         * New data sets should be generated, focused on people of all ethnicities. We need to make sure that advances in cancer research are accessible to all.
 
+* ['Neuroscience and ML Restore Movement in Paralysed Man's Hand' by Lisa Harvey, MathWorks (April 2016)](http://blogs.mathworks.com/headlines/2016/04/20/neuroscience-and-machine-learning-restore-movement-in-paralyzed-mans-hand/)
+    * First successful 'limb reanimation' in a person with quadriplegia. (Ian Burkhart, 24.) Using nerve bypass technology that transmits his thoughts directly to his hand muscles, he has temporarily regained control over his right hand and fingers.
+        * Signals in the brain detected by a computer chip implant
+        * Signals decoded by computer
+        * Computer stimulates correct muscles in armm via electronic sleeve, allowing movement to be controlled by thought
+
 ### Thoughts:
 * How might this aid the discovery of new antibiotics?
 * How might this help reduce the price of drugs?
